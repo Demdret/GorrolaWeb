@@ -1,0 +1,21 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+footer {
+  margin-top: 40px;
+}
+
+.carousel-caption h5 {
+  font-size: 1.8rem;
+  text-shadow: 2px 2px 5px #000;
+}
